@@ -1,0 +1,22 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Jai Singh",
+            "email":"jai97@gmail.com",
+            "phone":909876789
+        },
+        {
+            "id":2,
+            "name":"Kuldeep bhati",
+            "email":"kul0987@gmail.com",
+            "phone":23456543
+        },
+        {
+            "id":3,
+            "name":"Maan Pal",
+            "email":"Mann@gmail.com",
+            "phone":876545876
+        }
+    ]
+}
