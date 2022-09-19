@@ -126,7 +126,7 @@ const Login = () => {
               />
               <div className="d-flex justify-content-center align-items-center ">
                 <Button type="submit" disabled={isSubmitting}>
-                  Login
+                  {isSubmitting ? 'Login...' : 'Login'}
                 </Button>
               </div>
             </Form>
